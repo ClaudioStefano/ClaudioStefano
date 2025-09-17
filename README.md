@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Claudio
+💻 **Estudiante en ingeneria de sistemas**, me apasiona programar y editar en el lenguaje **Java**.  
+🚀 Actualmente me estoy centrando en el apartado de back-end, arquitecturas MVC y frameworks como Spring Boot.  
+📚 ¡Estoy en constante desarrollo y apunto de finalizar mi carrera universitaria! 
 
-<!--
-**ClaudioStefano/ClaudioStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Tecnologias conocidas:
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,java,mysql,spring&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+html | css | php | java | mysql | spring boot
+
+# 📫 Acerca de mí
+<a href="https://www.linkedin.com/in/claudio-sep%C3%BAlveda-139a40381/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin:  claudio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:  claudio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
